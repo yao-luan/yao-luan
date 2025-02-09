@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science and English
 - 💞️ I’m looking to collaborate on algorithm
 - 📫 How to reach me yao.luan@foxmail.com
-- 😄 Pronouns: he
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: learn CS
 
 <!---
