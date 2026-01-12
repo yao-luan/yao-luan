@@ -5,7 +5,7 @@
 <br/>
 
 
-<a href="mailto:hulei@westlake.edu.cn">
+<a href="u202442528@xs.ustb.edu.cn">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href='[https://scholar.google.com/citations?user=vBx2W4wAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?hl=zh-CN&user=AmbiOvQAAAAJ)' target="_blank"> 
