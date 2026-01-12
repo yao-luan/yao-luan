@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/yao-luan">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=ZhiYang+Yao;Third+year+Ph.D.+Student+%7C+Westlake+University;Multi+Omics+%7C+AI+For+Life+Sciences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=ZhiYang+Yao;Bachelor's+degree+Student+%7C+University+of+Science+and+Technology+Beijing;CTF-USTB+%7C+AI+For+Information+Security+Sciences" alt="Typing SVG" />
 </a>
 <br/>
 
