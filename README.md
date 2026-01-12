@@ -16,7 +16,7 @@
 
 <br/> 
 
-<a href="https://github.com/DBinary">
+<a href="https://github.com/yao-luan">
     <img src="https://github-stats-alpha.vercel.app/api?username=DBinary&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 
 * 🎓 Conducting research on **AI for Life Sciences** @ [Artificial Intelligence and Computational Biology (AICB) Lab](https://aicb.lab.westlake.edu.cn/People.htm) and Cell Biology Lab.
