@@ -19,6 +19,6 @@
 
 * 🎓 Conducting research on **AI for Life Sciences** @ [Artificial Intelligence and Computational Biology (AICB) Lab](https://aicb.lab.westlake.edu.cn/People.htm) and Cell Biology Lab.
 
-* 💻 Currently studying on @ [School of Life Sciences, Westlake University](https://sls.westlake.edu.cn/)
+* 💻 Currently studying on @ [School of Computer and Communication Engineering , University of Science and Technology Beijing](https://www.ustb.edu.cn/)
 .
 * 👑 Funded by the Fundamental Research Project for Young Ph.D. Students from National Natural Science Foundation of China and Doctoral Student Special Program of the CAST Young Science and Technology Talents Cultivation Project.
