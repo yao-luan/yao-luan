@@ -17,7 +17,7 @@
 <a href="https://github.com/yao-luan">
     <img src="https://github-stats-alpha.vercel.app/api?username=yao-luan&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 
-* 🎓 Conducting research on **AI for Life Sciences** @ [Artificial Intelligence and Computational Biology (AICB) Lab](https://aicb.lab.westlake.edu.cn/People.htm) and Cell Biology Lab.
+* 🎓 Conducting research on **AI for Information Security** @ [School of Computer and Communication Engineering (SCCE) Lab](https://scce.ustb.edu.cn/) and CTF-USTB.
 
 * 💻 Currently studying on @ [School of Computer and Communication Engineering , University of Science and Technology Beijing](https://www.ustb.edu.cn/)
 .
