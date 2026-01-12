@@ -20,5 +20,4 @@
 * 🎓 Conducting research on **AI for Information Security** @ [School of Computer and Communication Engineering (SCCE) Lab](https://scce.ustb.edu.cn/) and CTF-USTB.
 
 * 💻 Currently studying on @ [School of Computer and Communication Engineering , University of Science and Technology Beijing](https://www.ustb.edu.cn/)
-.
-* 👑 Funded by the Fundamental Research Project for Young Ph.D. Students from National Natural Science Foundation of China and Doctoral Student Special Program of the CAST Young Science and Technology Talents Cultivation Project.
+
